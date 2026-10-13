@@ -1,0 +1,1005 @@
+Customer_ID,Age,Gender,Income_Level,Location,Purchase_Category,Purchase_Amount (Rp),Frequency_of_Purchase,Social_Media_Influence,Discount_Used
+37-611-6911,22,Female,Middle,Surabaya,Gardening & Outdoors,5173900,4,None,TRUE
+29-392-9296,49,Male,High,Bandung,Food & Beverages,3444410,11,Medium,TRUE
+84-649-5117,24,Female,Middle,Papua,Office Supplies,6606410,2,Low,TRUE
+48-980-6078,29,Female,Middle,Surabaya,Home Appliances,1570305,6,High,TRUE
+91-170-9072,33,Female,Middle,Bandung,Furniture,3281350,6,Medium,FALSE
+82-561-4233,45,Male,Middle,Medan,Office Supplies,7563225,8,High,FALSE
+90-144-9193,21,Female,Middle,Papua,Furniture,7539200,10,High,TRUE
+88-661-4689,39,Male,Middle,Papua,Books,3379930,6,Low,FALSE
+37-065-3182,24,Female,High,Makassar,Office Supplies,3130380,8,Low,FALSE
+84-894-9222,25,Female,High,Medan,Sports & Outdoors,6491865,7,None,TRUE
+44-674-4037,33,Male,Middle,Makassar,Mobile Accessories,6040350,12,Low,TRUE
+78-116-8349,38,Female,High,Medan,Sports & Outdoors,3703415,5,Medium,TRUE
+19-933-8095,34,Male,Middle,Jakarta,Luxury Goods,948910,7,Low,TRUE
+19-933-8095,34,Male,Middle,Jakarta,Luxury Goods,948910,7,Low,TRUE
+80-684-5072,32,Male,High,Bandung,Animal Feed,1237055,4,High,FALSE
+23-302-7502,30,Female,High,Bandung,Health Care,906905,2,None,TRUE
+90-069-8934,40,Male,High,Makassar,Hotels,1693995,3,Medium,FALSE
+45-073-7243,37,Male,High,Papua,Furniture,5524975,6,Low,FALSE
+89-883-2101,38,Female,Middle,Medan,Mobile Accessories,3673345,10,High,TRUE
+00-477-9449,36,Male,Middle,Papua,Packages,7043045,10,Medium,FALSE
+67-159-7366,29,Female,High,Surabaya,Electronics,7606625,10,None,FALSE
+85-691-4293,21,Female,Middle,Medan,Software & Apps,7177585,7,None,TRUE
+56-085-0464,36,Female,High,Papua,Baby Products,879470,5,Medium,TRUE
+33-264-2822,38,Male,High,Surabaya,Toys & Games,5755460,7,Medium,TRUE
+95-478-2650,37,Female,Middle,Jakarta,Software & Apps,7145500,7,High,FALSE
+04-349-6759,33,Female,High,Medan,Food & Beverages,3927235,6,None,TRUE
+21-755-8745,37,Male,High,Papua,Packages,2116215,3,High,TRUE
+29-625-7057,31,Female,Middle,Bandung,Arts & Crafts,7580275,10,High,TRUE
+58-623-8404,50,Male,High,Jakarta,Electronics,1269605,10,Medium,FALSE
+56-506-4709,50,Male,Middle,Papua,Arts & Crafts,2104900,2,Low,FALSE
+25-839-8670,45,Female,Middle,Medan,Health Supplements,5924720,12,High,TRUE
+89-194-0596,33,Female,High,Medan,Gardening & Outdoors,5497850,5,None,TRUE
+55-163-1389,24,Male,High,Jakarta,Mobile Accessories,6724210,6,Medium,FALSE
+28-225-4286,39,Female,High,Bandung,Mobile Accessories,4373015,5,None,TRUE
+14-305-8712,48,Male,High,Makassar,Mobile Accessories,7042890,10,None,TRUE
+85-738-6864,25,Male,Middle,Bandung,Mobile Accessories,2152640,7,None,TRUE
+17-198-5155,30,Female,High,Surabaya,Books,811270,6,Low,TRUE
+15-354-9904,34,Male,Middle,Papua,Groceries,5242100,7,None,TRUE
+35-198-9248,21,Female,Middle,Makassar,Toys & Games,4078825,3,High,TRUE
+03-950-6074,36,Female,Middle,Makassar,Software & Apps,5759490,10,High,TRUE
+19-999-0134,30,Male,Middle,Medan,Health Care,5477700,2,Medium,FALSE
+57-989-1487,46,Female,Middle,Makassar,Software & Apps,5105855,5,Medium,TRUE
+07-816-2673,46,Female,Middle,Papua,Food & Beverages,844130,5,High,FALSE
+70-761-3550,43,Male,High,Bandung,Books,3985360,8,High,TRUE
+38-242-3251,43,Male,High,Medan,Arts & Crafts,4542120,11,None,TRUE
+95-525-0842,34,Male,High,Medan,Books,1711200,12,None,FALSE
+37-101-4922,42,Female,Middle,Papua,Mobile Accessories,1182185,4,None,TRUE
+37-128-5425,40,Female,High,Makassar,Toys & Games,6077240,6,None,TRUE
+27-439-9545,25,Female,High,Jakarta,Toys & Games,793910,6,None,TRUE
+37-126-7954,38,Male,Middle,Jakarta,Clothing,3527335,2,High,FALSE
+82-990-0504,46,Female,Middle,Bandung,Groceries,5872485,7,None,TRUE
+21-734-0212,24,Female,Middle,Bandung,Beauty & Personal Care,6570760,8,Low,FALSE
+76-148-9413,43,Female,High,Bandung,Arts & Crafts,1724220,9,Medium,TRUE
+53-639-3774,37,Female,Middle,Surabaya,Travel & Leisure,4639305,7,Medium,TRUE
+20-817-9584,42,Male,Middle,Surabaya,Animal Feed,2623840,7,None,TRUE
+18-655-3670,29,Male,Middle,Makassar,Office Supplies,6961515,9,Medium,FALSE
+72-431-5021,35,Female,High,Jakarta,Animal Feed,6625940,6,Medium,TRUE
+07-479-3919,27,Female,Middle,Medan,Sports & Outdoors,2659955,3,Low,TRUE
+17-032-6274,40,Female,High,Surabaya,Books,3724340,3,High,TRUE
+64-166-9097,34,Female,High,Makassar,Furniture,4807635,6,Medium,FALSE
+39-499-3854,25,Female,Middle,Makassar,Hotels,2573000,10,High,FALSE
+39-636-5871,38,Male,High,Medan,Baby Products,5611155,2,None,FALSE
+71-667-2334,33,Male,High,Makassar,Travel & Leisure,5401750,10,None,FALSE
+35-192-9050,32,Female,Middle,Medan,Animal Feed,6137535,9,Medium,TRUE
+91-440-0011,50,Female,Middle,Jakarta,Sports & Outdoors,7362345,9,None,TRUE
+20-830-4758,35,Female,Middle,Bandung,Luxury Goods,4439665,4,High,TRUE
+84-337-1016,19,Female,High,Bandung,Health Care,5166460,8,Low,TRUE
+09-346-4992,46,Female,High,Makassar,Electronics,3463785,9,High,TRUE
+75-083-3608,23,Male,Middle,Papua,Sports & Outdoors,6429865,2,High,FALSE
+29-779-7209,34,Female,High,Surabaya,Books,6066390,5,Low,FALSE
+12-409-5166,48,Male,Middle,Papua,Furniture,5710200,11,High,FALSE
+07-024-4995,27,Female,Middle,Makassar,Furniture,5089580,11,High,FALSE
+74-478-5950,37,Female,Middle,Jakarta,Home Appliances,6578045,9,High,TRUE
+31-395-1286,47,Male,High,Medan,Health Supplements,3055360,10,Low,TRUE
+60-838-4334,45,Male,High,Makassar,Books,7045835,9,Low,TRUE
+71-197-8227,37,Male,Middle,Bandung,Electronics,4624890,4,High,FALSE
+15-530-3861,36,Male,High,Jakarta,clothing,1731350,6,Medium,FALSE
+30-567-4471,34,Male,Middle,Bandung,Clothing,5792195,10,Medium,FALSE
+04-465-1819,37,Male,High,Bandung,Jewelry & Accessories,5500485,5,None,FALSE
+69-692-0614,18,Female,Middle,Makassar,Mobile Accessories,3324440,2,None,TRUE
+12-839-8066,20,Male,High,Medan,Software & Apps,6193490,6,None,TRUE
+05-465-8765,27,Female,High,Jakarta,Luxury Goods,5905345,7,Low,TRUE
+81-580-3810,36,Male,Middle,Medan,Food & Beverages,1224500,10,Medium,FALSE
+74-353-6312,46,Female,Middle,Makassar,Groceries,1765140,2,Medium,FALSE
+78-824-1887,26,Male,Middle,Surabaya,Travel & Leisure,1884335,4,High,FALSE
+31-218-0024,21,Female,High,Jakarta,Health Supplements,3340870,11,Low,TRUE
+15-711-4107,43,Male,High,Jakarta,Furniture,1348965,10,Low,FALSE
+76-672-1193,19,Male,High,Surabaya,Travel & Leisure,1732125,4,High,FALSE
+46-503-5589,41,Female,High,Makassar,Office Supplies,2111100,2,Low,TRUE
+87-499-6916,48,Male,Middle,Makassar,Food & Beverages,6809305,10,Medium,FALSE
+30-520-8656,19,Female,Middle,Medan,Health Care,3021415,9,High,TRUE
+36-323-3504,29,Male,Middle,Jakarta,Food & Beverages,5853885,8,None,TRUE
+93-810-4051,26,Female,High,Jakarta,Beauty & Personal Care,1683455,10,None,TRUE
+66-515-3648,20,Female,Middle,Jakarta,Health Care,5684935,7,Low,FALSE
+09-216-1957,31,Female,High,Surabaya,Jewelry & Accessories,2759620,5,Medium,FALSE
+23-253-2565,23,Female,High,Jakarta,Toys & Games,7146895,8,Medium,TRUE
+74-509-4985,19,Female,High,Jakarta,Hotels,3272980,5,High,FALSE
+05-857-1572,23,Female,Middle,Bandung,Animal Feed,6540225,8,Medium,FALSE
+26-521-8328,49,Female,Middle,Papua,Furniture,5868145,5,None,FALSE
+31-147-6197,23,Female,High,Papua,Office Supplies,4168415,2,Medium,FALSE
+90-093-0469,42,Male,Middle,Surabaya,Health Care,6895485,11,Medium,FALSE
+38-935-1865,18,Female,High,Medan,Beauty & Personal Care,2492710,7,High,TRUE
+75-953-8663,35,Male,High,Makassar,Hotels,7659790,6,Medium,FALSE
+38-478-2681,22,Male,Middle,Surabaya,Home Appliances,2744275,5,None,TRUE
+70-895-5298,28,Female,Middle,Surabaya,Food & Beverages,6985230,7,High,FALSE
+02-653-5884,42,Female,High,Surabaya,Arts & Crafts,2546185,6,High,TRUE
+11-719-8800,37,Female,Middle,Jakarta,Food & Beverages,5368580,12,Medium,FALSE
+59-355-5251,33,Female,Middle,Makassar,Animal Feed,5855435,9,Medium,TRUE
+82-572-9091,46,Female,Middle,Papua,Travel & Leisure,2532855,2,Low,TRUE
+86-044-1071,30,Female,Middle,Bandung,Hotels,7247490,10,None,TRUE
+08-733-0300,39,Female,Middle,Bandung,Books,3836405,10,Low,TRUE
+70-108-1493,25,Female,Middle,Papua,Office Supplies,5659050,3,None,FALSE
+46-230-8307,38,Female,High,Medan,Health Care,7524010,5,High,TRUE
+74-431-0242,41,Female,Middle,Jakarta,Health Care,3883370,4,High,FALSE
+78-272-6417,49,Female,Middle,Jakarta,Jewelry & Accessories,2528670,10,Low,TRUE
+13-792-4356,21,Male,High,Surabaya,Gardening & Outdoors,2515805,8,High,FALSE
+04-563-9091,37,Male,Middle,Surabaya,Office Supplies,5087255,7,Low,FALSE
+79-592-5396,30,Female,High,Jakarta,Sports & Outdoors,4163145,4,High,TRUE
+39-952-4459,18,Female,High,Bandung,Electronics,3989235,7,Medium,TRUE
+67-935-7964,41,Female,Middle,Surabaya,Office Supplies,3185095,4,Low,TRUE
+26-828-2720,40,Male,High,Jakarta,Mobile Accessories,6322605,7,Low,TRUE
+57-410-7415,33,Female,High,Jakarta,Food & Beverages,3948315,6,Medium,TRUE
+62-989-8214,30,Female,Middle,Surabaya,Clothing,6165590,12,Medium,FALSE
+73-827-2774,33,Female,High,Jakarta,Electronics,4731995,3,Medium,TRUE
+19-643-1879,45,Male,Middle,Medan,Food & Beverages,3996830,6,None,TRUE
+57-345-3921,42,Female,High,Papua,Jewelry & Accessories,6098475,12,Low,FALSE
+98-817-6731,30,Male,High,Papua,Health Supplements,906595,6,Medium,TRUE
+31-788-0864,42,Male,Middle,Medan,Beauty & Personal Care,3510440,11,None,TRUE
+27-806-4972,26,Female,High,Jakarta,Health Care,7272910,6,High,FALSE
+48-343-1220,42,Female,High,Jakarta,Jewelry & Accessories,5197460,6,None,TRUE
+15-640-6493,31,Male,High,Medan,Animal Feed,2863470,5,Medium,FALSE
+64-846-7450,37,Male,High,Papua,Travel & Leisure,6853790,5,None,FALSE
+58-788-8938,49,Male,High,Surabaya,Health Supplements,6620050,8,High,FALSE
+52-240-3825,34,Male,High,Jakarta,Home Appliances,5065710,4,High,TRUE
+60-618-2561,41,Male,High,Makassar,hotels,1534035,12,None,TRUE
+94-969-6819,33,Male,High,Medan,Health Care,1203575,6,Medium,TRUE
+76-982-8107,47,Female,Middle,Jakarta,Electronics,1326955,2,High,TRUE
+52-779-8972,47,Male,High,Bandung,Food & Beverages,2554245,4,None,TRUE
+40-520-3271,29,Female,High,Makassar,Health Supplements,3649630,10,None,FALSE
+79-884-5600,36,Female,High,Surabaya,Books,3799670,4,High,TRUE
+80-607-9947,43,Male,High,Surabaya,Toys & Games,6818605,5,Low,FALSE
+87-290-8263,31,Male,High,Papua,Home Appliances,4792910,10,Low,FALSE
+99-316-9993,27,Male,Middle,Papua,Groceries,2272145,10,Low,FALSE
+54-164-2243,48,Male,Middle,Bandung,Hotels,4630315,4,High,FALSE
+14-784-5606,19,Male,High,Medan,Food & Beverages,6122655,2,Medium,TRUE
+47-992-7446,41,Male,Middle,Jakarta,Electronics,5753445,10,High,FALSE
+37-513-5073,33,Female,Middle,Bandung,Electronics,3003280,10,Medium,FALSE
+93-473-7248,43,Male,Middle,Papua,Baby Products,6576185,6,None,TRUE
+72-830-1211,38,Male,High,Papua,Jewelry & Accessories,7689705,2,High,TRUE
+87-934-6762,41,Male,High,Jakarta,Baby Products,5299605,3,Low,FALSE
+71-975-9564,40,Male,High,Papua,Gardening & Outdoors,1978730,11,Low,FALSE
+40-232-5631,47,Female,Middle,Jakarta,Software & Apps,3525785,2,Low,TRUE
+22-414-4955,35,Male,High,Papua,Health Supplements,5316345,3,Low,FALSE
+99-089-1930,49,Female,High,Bandung,Packages,4750440,5,Medium,FALSE
+62-198-2511,22,Male,Middle,Surabaya,Home Appliances,4782370,3,High,FALSE
+21-297-1223,49,Male,High,Makassar,Travel & Leisure,1924635,12,High,TRUE
+10-961-9336,27,Female,Middle,Bandung,Travel & Leisure,1209000,5,None,TRUE
+71-473-2656,27,Female,High,Jakarta,Health Care,6091965,4,High,TRUE
+84-954-2973,37,Female,High,Jakarta,Hotels,1582395,3,None,FALSE
+22-382-9636,32,Male,Middle,Surabaya,Health Care,6606255,3,High,FALSE
+89-724-2536,42,Male,Middle,Bandung,Arts & Crafts,2174805,2,Low,TRUE
+85-391-1888,18,Female,High,Surabaya,Software & Apps,6412350,8,Low,FALSE
+84-934-2483,49,Male,High,Makassar,Arts & Crafts,5403765,4,High,FALSE
+96-229-1698,23,Female,Middle,Medan,Animal Feed,1414685,7,High,TRUE
+36-948-6994,29,Female,High,Jakarta,Luxury Goods,5579070,11,None,FALSE
+43-172-9431,25,Male,Middle,Makassar,Gardening & Outdoors,2142100,8,High,FALSE
+53-690-5759,38,Female,High,Bandung,Home Appliances,3043115,11,Medium,TRUE
+00-496-3067,32,Female,Middle,Surabaya,Packages,3863220,8,Medium,FALSE
+10-330-6387,45,Male,High,Medan,Furniture,2001050,12,Low,TRUE
+87-590-8963,45,Female,High,Medan,Baby Products,1746695,10,High,FALSE
+47-931-2642,46,Male,Middle,Jakarta,Beauty & Personal Care,4151675,5,Medium,FALSE
+76-501-6422,24,Male,Middle,Bandung,Home Appliances,3183080,12,High,FALSE
+39-274-2175,48,Male,High,Surabaya,Health Supplements,1226050,10,None,TRUE
+62-493-5282,35,Male,High,Medan,Health Care,3977765,12,High,TRUE
+18-841-7253,50,Female,High,Papua,Books,6354690,12,None,TRUE
+18-097-5707,34,Male,Middle,Medan,Sports & Outdoors,4519800,2,High,FALSE
+83-792-5141,50,Female,Middle,Medan,Home Appliances,1576350,7,Medium,FALSE
+65-036-2410,50,Female,Middle,Jakarta,Health Care,5730815,2,None,TRUE
+67-593-9579,46,Male,Middle,Medan,Baby Products,1100500,12,High,FALSE
+33-484-6674,47,Male,Middle,Bandung,Packages,4340775,10,Medium,TRUE
+65-249-5416,35,Male,High,Makassar,Jewelry & Accessories,848005,4,Low,TRUE
+17-328-4678,27,Male,High,Makassar,Packages,1852405,11,Low,FALSE
+00-733-8770,37,Female,High,Surabaya,Arts & Crafts,891250,12,None,TRUE
+47-501-3435,38,Female,High,Makassar,Books,3488275,5,High,FALSE
+46-779-7065,41,Female,High,Bandung,Food & Beverages,6837825,7,Low,FALSE
+91-603-1565,48,Male,Middle,Surabaya,Animal Feed,7458755,3,High,FALSE
+35-122-5020,48,Female,High,Papua,Arts & Crafts,1595880,3,Low,FALSE
+63-684-4073,45,Female,High,Bandung,Electronics,5139335,11,Low,FALSE
+74-483-2893,26,Female,Middle,Surabaya,Electronics,1569995,11,Medium,FALSE
+72-728-4406,50,Female,Middle,Medan,Packages,2224560,9,Medium,TRUE
+13-588-2488,39,Male,Middle,Jakarta,Sports & Outdoors,4285440,3,None,FALSE
+79-861-6506,20,Male,High,Papua,Toys & Games,5469485,11,High,FALSE
+66-974-6707,48,Male,Middle,Papua,Mobile Accessories,3544540,3,Low,TRUE
+95-112-6724,31,Female,Middle,Surabaya,Food & Beverages,4671545,6,None,FALSE
+27-262-6874,25,Female,Middle,Surabaya,Books,7339250,11,Low,FALSE
+92-908-5062,18,Female,Middle,Surabaya,Home Appliances,1128400,11,High,TRUE
+70-014-6406,18,Male,Middle,Surabaya,Packages,2661660,3,Low,FALSE
+52-908-9971,31,Male,Middle,Medan,Software & Apps,7246250,10,None,FALSE
+57-623-5362,43,Male,High,Papua,Furniture,3251745,6,High,TRUE
+48-315-0196,23,Male,Middle,Medan,Office Supplies,2330115,9,None,TRUE
+71-959-3896,29,Male,High,Papua,Luxury Goods,1528765,7,High,FALSE
+29-987-3969,21,Female,Middle,Makassar,Beauty & Personal Care,2996150,11,None,TRUE
+78-613-1546,49,Female,Middle,Surabaya,Luxury Goods,2247810,7,High,TRUE
+43-664-4451,30,Female,Middle,Papua,Health Supplements,4572345,4,Low,FALSE
+34-095-3364,31,Male,Middle,Papua,Office Supplies,4734475,2,None,FALSE
+72-393-6893,50,Female,Middle,Surabaya,Toys & Games,6702510,2,Medium,FALSE
+73-707-2809,35,Female,Middle,Bandung,Gardening & Outdoors,3527490,11,None,FALSE
+04-609-7885,36,Male,Middle,Medan,Toys & Games,2493795,10,None,TRUE
+73-139-4306,24,Female,Middle,Makassar,Luxury Goods,2156050,7,Low,FALSE
+23-794-8196,36,Female,High,Surabaya,Furniture,4158340,9,High,FALSE
+66-050-6391,45,Female,Middle,Makassar,Sports & Outdoors,999595,6,None,FALSE
+22-311-5460,44,Male,Middle,Papua,Arts & Crafts,1242635,10,High,TRUE
+51-917-0766,28,Male,High,Bandung,Groceries,4301560,11,None,TRUE
+53-013-1026,40,Male,High,Jakarta,Health Supplements,831885,7,High,FALSE
+29-779-3457,49,Female,Middle,Makassar,Office Supplies,5012545,10,None,TRUE
+18-047-5540,50,Female,High,Bandung,Sports & Outdoors,1519310,5,Low,TRUE
+89-438-5310,24,Male,High,Medan,Travel & Leisure,3584530,10,Low,FALSE
+23-985-3535,26,Male,High,Makassar,Food & Beverages,5928595,6,None,TRUE
+67-939-2463,28,Male,Middle,Papua,Travel & Leisure,3959010,9,None,TRUE
+03-623-6767,48,Female,Middle,Surabaya,Toys & Games,6560065,12,High,FALSE
+86-749-6914,47,Male,Middle,Makassar,Beauty & Personal Care,4279240,4,High,FALSE
+03-977-8103,25,Male,Middle,Papua,Books,5170180,3,Low,TRUE
+03-827-4021,39,Male,High,Bandung,Groceries,2012210,12,High,FALSE
+68-507-4747,41,Female,High,Medan,Clothing,4321090,3,Medium,TRUE
+73-942-8440,37,Male,Middle,Bandung,Gardening & Outdoors,1744525,5,None,TRUE
+21-821-6398,50,Female,Middle,Jakarta,Toys & Games,2201310,7,Low,TRUE
+64-641-7874,33,Female,High,Bandung,Packages,7468520,10,High,FALSE
+53-459-7870,50,Female,High,Surabaya,Packages,2557655,10,Medium,TRUE
+36-240-3240,25,Male,Middle,Makassar,Baby Products,881175,5,None,TRUE
+54-936-4361,34,Female,High,Surabaya,Hotels,2834795,2,Low,FALSE
+67-209-0990,39,Male,High,Surabaya,Books,5781655,5,Low,FALSE
+19-667-0201,41,Male,Middle,Papua,Home Appliances,3421935,7,Low,TRUE
+36-274-5269,27,Male,Middle,Jakarta,Hotels,4511895,11,None,TRUE
+09-948-3150,23,Female,High,Medan,Software & Apps,6417930,9,Medium,TRUE
+19-873-9468,37,Male,Middle,Jakarta,Animal Feed,6331905,9,High,TRUE
+37-748-4988,21,Male,Middle,Medan,Furniture,1602700,9,High,TRUE
+08-755-1170,47,Male,Middle,Jakarta,Furniture,1052760,10,Low,FALSE
+07-402-7433,42,Female,Middle,Makassar,Health Supplements,5489480,8,Low,TRUE
+60-073-3575,30,Male,Middle,Papua,Books,4289935,2,Low,TRUE
+97-237-3483,49,Male,Middle,Bandung,Health Care,2948875,6,None,FALSE
+93-675-1619,28,Female,Middle,Jakarta,Animal Feed,3154095,7,Medium,FALSE
+43-884-2577,24,Male,Middle,Papua,Health Supplements,4084250,6,None,FALSE
+33-200-7615,40,Female,High,Makassar,Arts & Crafts,3833150,2,Low,TRUE
+63-631-8261,18,Male,High,Papua,Toys & Games,786005,12,None,TRUE
+34-016-7909,42,Male,High,Bandung,Office Supplies,2043675,4,Low,TRUE
+82-304-6495,19,Male,High,Jakarta,Beauty & Personal Care,7120545,6,Low,FALSE
+70-207-6999,36,Female,High,Jakarta,Office Supplies,5941615,6,Medium,FALSE
+71-780-8195,26,Female,High,Makassar,Toys & Games,3287240,8,Low,FALSE
+93-356-8589,35,Female,High,Makassar,Arts & Crafts,5746315,7,High,FALSE
+92-142-9480,39,Male,High,Bandung,Clothing,4954730,7,High,FALSE
+53-042-5685,44,Female,Middle,Papua,Jewelry & Accessories,5782275,3,Low,FALSE
+35-853-2222,19,Female,High,Jakarta,Sports & Outdoors,6103590,6,Medium,TRUE
+83-670-9273,27,Female,High,Makassar,Clothing,3798120,4,High,TRUE
+37-783-6086,26,Female,High,Jakarta,Beauty & Personal Care,1724685,3,High,FALSE
+79-902-8144,26,Female,High,Bandung,Baby Products,1445995,11,High,TRUE
+41-009-7879,27,Female,High,Papua,Hotels,2425750,5,High,TRUE
+89-302-8461,37,Male,Middle,Surabaya,Packages,4496705,8,Medium,FALSE
+23-066-1915,23,Female,Middle,Jakarta,Software & Apps,5506840,3,Low,TRUE
+39-090-0124,31,Female,Middle,Papua,Gardening & Outdoors,1142970,7,High,FALSE
+41-854-0707,21,Female,Middle,Makassar,Sports & Outdoors,2640425,10,Medium,TRUE
+04-352-1558,36,Female,High,Jakarta,Home Appliances,1917350,6,High,FALSE
+93-867-8303,21,Female,Middle,Jakarta,Gardening & Outdoors,3124800,9,Medium,FALSE
+31-088-6950,27,Female,Middle,Jakarta,Furniture,1800170,11,High,FALSE
+43-616-8365,29,Female,Middle,Medan,Jewelry & Accessories,7492390,9,High,FALSE
+71-876-9118,24,Male,Middle,Jakarta,Health Supplements,6488610,9,Low,TRUE
+18-263-0366,33,Female,Middle,Papua,Books,2167365,12,None,FALSE
+25-502-1415,38,Female,High,Jakarta,Arts & Crafts,839635,4,Medium,FALSE
+50-000-9588,47,Male,High,Surabaya,Jewelry & Accessories,6782645,10,None,TRUE
+32-338-5967,32,Male,Middle,Papua,Hotels,1760335,5,Medium,FALSE
+19-311-9149,21,Female,High,Bandung,Packages,4735870,6,Medium,TRUE
+94-212-7169,23,Female,High,Makassar,Food & Beverages,5256360,2,Medium,FALSE
+17-246-6194,45,Female,Middle,Papua,Jewelry & Accessories,5012700,11,Low,TRUE
+26-672-1285,24,Female,Middle,Medan,Clothing,7325455,9,None,TRUE
+00-265-0556,20,Female,Middle,Makassar,Furniture,1054310,10,None,TRUE
+76-397-3294,27,Male,High,Bandung,Toys & Games,3091320,7,None,FALSE
+43-612-8079,47,Male,High,Bandung,Sports & Outdoors,3886315,10,Low,FALSE
+17-213-2834,34,Male,Middle,Makassar,Clothing,5773595,12,High,TRUE
+36-214-1586,41,Male,High,Makassar,Books,2896175,2,High,TRUE
+32-414-1466,26,Male,High,Bandung,Sports & Outdoors,1136460,10,None,TRUE
+12-699-6543,49,Male,Middle,Papua,Clothing,3326145,6,None,TRUE
+83-427-3218,47,Female,Middle,Jakarta,Furniture,7243460,12,Medium,FALSE
+61-663-9008,18,Male,Middle,Makassar,Travel & Leisure,7372575,4,High,TRUE
+86-917-7481,48,Female,Middle,Papua,Animal Feed,2501390,11,None,TRUE
+66-086-2306,19,Male,Middle,Jakarta,Baby Products,3871590,4,Low,FALSE
+43-671-9834,39,Female,Middle,Medan,Clothing,2323140,9,Low,FALSE
+90-888-8726,48,Female,High,Surabaya,Jewelry & Accessories,5379895,5,Medium,FALSE
+23-085-0811,43,Female,High,Medan,Health Care,5355095,9,High,TRUE
+85-192-9218,31,Female,High,Bandung,Health Care,4607220,2,Medium,TRUE
+82-671-7236,28,Female,Middle,Makassar,Home Appliances,7662270,12,High,FALSE
+42-674-3987,29,Male,Middle,Makassar,Animal Feed,6874560,5,None,TRUE
+41-934-7739,45,Female,Middle,Jakarta,Jewelry & Accessories,7086290,7,High,TRUE
+48-825-0400,38,Male,Middle,Jakarta,Books,6322140,4,None,FALSE
+30-133-5120,30,Male,Middle,Jakarta,Books,6954540,8,High,TRUE
+29-827-8515,40,Female,High,Papua,Electronics,3967380,7,High,FALSE
+91-724-4633,45,Male,Middle,Papua,Luxury Goods,2264085,7,Low,TRUE
+10-328-5732,44,Female,High,Jakarta,Health Supplements,4834450,4,Low,FALSE
+38-912-1128,38,Female,Middle,Jakarta,Gardening & Outdoors,4674800,4,Low,FALSE
+07-751-9620,23,Male,Middle,Bandung,Software & Apps,4610475,3,Medium,FALSE
+81-877-9170,30,Male,High,Papua,Sports & Outdoors,2437530,3,Medium,FALSE
+19-885-2597,42,Male,High,Medan,Health Supplements,3711630,3,Low,TRUE
+82-389-2029,28,Female,High,Jakarta,Gardening & Outdoors,3732710,10,High,TRUE
+97-463-0048,44,Female,Middle,Medan,Sports & Outdoors,4682085,6,Medium,TRUE
+91-572-6135,45,Male,Middle,Bandung,Software & Apps,5703845,2,None,FALSE
+10-232-0685,46,Female,High,Medan,Groceries,5576125,7,High,FALSE
+77-761-7475,28,Female,Middle,Medan,Packages,3168820,2,None,FALSE
+78-826-3039,27,Male,High,Jakarta,Gardening & Outdoors,3548415,7,Low,TRUE
+86-668-1045,20,Female,High,Surabaya,Office Supplies,5507305,11,High,FALSE
+14-603-9698,40,Male,High,Surabaya,Animal Feed,5187385,12,None,TRUE
+23-752-2213,36,Male,Middle,Surabaya,Books,2832160,5,High,FALSE
+71-486-8561,43,Male,High,Makassar,Jewelry & Accessories,4033410,11,None,FALSE
+76-382-7162,26,Female,High,Medan,Food & Beverages,7051415,8,Low,FALSE
+28-947-4295,29,Male,Middle,Jakarta,Beauty & Personal Care,5044010,11,Low,TRUE
+84-765-0748,34,Female,Middle,Makassar,Jewelry & Accessories,5446080,2,High,FALSE
+54-207-8349,40,Male,High,Jakarta,Baby Products,5171265,10,None,FALSE
+20-419-0341,42,Female,High,Makassar,Beauty & Personal Care,7283450,4,Low,FALSE
+52-005-9914,28,Male,High,Medan,Mobile Accessories,3216560,4,Low,FALSE
+34-846-7805,49,Male,High,Surabaya,Toys & Games,1951295,7,Low,FALSE
+26-596-5461,46,Female,High,Bandung,Electronics,2646935,9,Medium,FALSE
+20-157-8631,44,Female,High,Surabaya,Electronics,990605,2,None,FALSE
+91-199-9097,29,Male,High,Surabaya,Clothing,5278525,7,Low,FALSE
+55-846-2579,47,Male,Middle,Surabaya,Software & Apps,5861170,6,Medium,FALSE
+83-455-7266,37,Female,Middle,Makassar,Toys & Games,3655520,9,None,FALSE
+67-599-9267,47,Male,High,Makassar,Arts & Crafts,2548820,5,Low,FALSE
+41-501-9276,24,Male,High,Bandung,Sports & Outdoors,7065055,3,Low,FALSE
+99-509-4653,36,Male,High,Medan,Health Care,4623960,7,Low,TRUE
+31-284-5722,36,Female,High,Surabaya,Hotels,5451505,7,Medium,TRUE
+88-000-9227,49,Male,Middle,Medan,Toys & Games,6098940,11,High,TRUE
+52-726-9328,19,Female,High,Jakarta,Office Supplies,3746660,6,Medium,FALSE
+60-198-5417,27,Female,High,Bandung,Software & Apps,4343100,3,Medium,FALSE
+00-107-4749,36,Female,Middle,Makassar,Health Supplements,2759620,5,None,TRUE
+88-428-8409,37,Male,High,Makassar,Packages,5393845,5,Low,TRUE
+21-313-7424,45,Female,Middle,Surabaya,Office Supplies,5329055,3,High,FALSE
+79-973-7862,47,Female,Middle,Jakarta,Animal Feed,1631995,7,Low,FALSE
+81-814-3498,32,Male,Middle,Makassar,Hotels,7496730,3,Medium,FALSE
+34-375-8138,48,Male,Middle,Surabaya,Home Appliances,1075855,8,High,FALSE
+05-067-9686,20,Female,High,Jakarta,Toys & Games,3211290,11,Low,FALSE
+61-951-7929,32,Male,Middle,Bandung,Health Supplements,7039325,11,High,TRUE
+53-667-0793,25,Male,High,Makassar,Groceries,1751655,11,Low,FALSE
+61-212-1117,42,Male,Middle,Papua,Packages,6496515,4,None,FALSE
+09-443-7536,37,Female,High,Makassar,Jewelry & Accessories,2849830,5,Medium,FALSE
+27-463-5671,21,Female,Middle,Medan,Packages,834985,10,Medium,TRUE
+53-380-3968,43,Female,High,Jakarta,Food & Beverages,6631210,9,Medium,TRUE
+42-969-0735,29,Female,High,Papua,Packages,4383710,6,Medium,FALSE
+12-440-5464,28,Male,Middle,Makassar,Electronics,3337305,7,Medium,FALSE
+33-467-2534,43,Male,Middle,Papua,Furniture,2846730,11,Low,TRUE
+35-418-0288,48,Female,High,Makassar,Baby Products,3080315,10,High,TRUE
+33-787-2143,26,Female,Middle,Makassar,Travel & Leisure,4118660,10,None,TRUE
+58-528-6262,42,Male,Middle,Bandung,Software & Apps,2144425,2,Low,TRUE
+31-060-2716,27,Male,Middle,Jakarta,Groceries,6848985,3,High,TRUE
+81-515-5823,40,Female,Middle,Surabaya,Clothing,2763495,4,Low,FALSE
+90-858-0453,23,Male,Middle,Papua,Sports & Outdoors,1194740,10,High,TRUE
+28-874-8938,46,Male,High,Makassar,Office Supplies,4136950,11,Low,FALSE
+89-625-5542,38,Female,Middle,Jakarta,Electronics,4182520,4,Low,TRUE
+07-966-8728,23,Male,Middle,Medan,Home Appliances,5180410,8,None,FALSE
+94-408-2581,40,Female,Middle,Jakarta,Travel & Leisure,7355680,8,Low,TRUE
+55-301-9368,34,Male,High,Papua,Electronics,5594105,4,High,TRUE
+72-336-1992,44,Female,Middle,Bandung,Groceries,5789095,6,Medium,TRUE
+06-008-2805,32,Female,High,Papua,Sports & Outdoors,7165650,5,None,TRUE
+77-178-6086,42,Female,Middle,Makassar,Toys & Games,5156385,8,Medium,FALSE
+28-832-2885,22,Female,High,Makassar,Home Appliances,3648545,9,None,FALSE
+75-210-7391,44,Female,Middle,Surabaya,Packages,4181590,7,Medium,TRUE
+60-470-3563,29,Male,Middle,Bandung,Gardening & Outdoors,7724115,2,Medium,TRUE
+24-241-7171,30,Female,High,Makassar,Health Supplements,2835570,7,None,TRUE
+53-784-1855,19,Female,Middle,Jakarta,Health Supplements,1886350,7,High,TRUE
+83-561-3374,45,Female,High,Bandung,Software & Apps,7583685,4,High,FALSE
+96-121-0629,38,Male,Middle,Medan,Software & Apps,4710915,6,High,TRUE
+00-275-9990,24,Female,Middle,Papua,Food & Beverages,4692470,11,High,TRUE
+36-593-2907,42,Male,High,Medan,Beauty & Personal Care,2436755,11,Medium,TRUE
+22-692-3470,46,Female,High,Surabaya,Sports & Outdoors,2471475,2,Medium,TRUE
+90-322-7329,44,Female,High,Medan,Luxury Goods,4850415,2,High,TRUE
+28-395-9872,38,Male,High,Jakarta,Hotels,1018040,4,Medium,FALSE
+79-297-1061,44,Male,Middle,Bandung,Software & Apps,958830,5,None,FALSE
+93-649-9356,18,Female,High,Makassar,Electronics,5328435,6,None,TRUE
+27-543-7069,37,Male,Middle,Makassar,Home Appliances,1661755,2,None,TRUE
+96-079-9597,31,Female,High,Surabaya,Home Appliances,2309190,12,None,TRUE
+38-940-4942,22,Female,High,Surabaya,Health Care,7601355,4,Low,FALSE
+82-014-2564,33,Male,High,Papua,Groceries,7150770,4,High,FALSE
+70-699-5799,20,Female,High,Makassar,Office Supplies,5252795,7,Low,TRUE
+53-240-2040,26,Male,High,Surabaya,Gardening & Outdoors,3450765,3,Medium,FALSE
+27-742-2776,26,Male,High,Bandung,Toys & Games,1115225,2,None,FALSE
+55-620-7906,21,Male,High,Jakarta,Software & Apps,4100060,9,None,TRUE
+04-213-4617,43,Male,High,Makassar,Food & Beverages,6429400,9,Low,FALSE
+79-384-7469,50,Male,Middle,Jakarta,Groceries,787245,12,Medium,TRUE
+30-839-5589,42,Female,Middle,Bandung,Hotels,4096650,10,Low,TRUE
+76-848-9229,29,Male,High,Surabaya,Animal Feed,1898130,10,High,FALSE
+98-559-6096,20,Male,Middle,Medan,Software & Apps,3689155,8,High,FALSE
+56-810-2066,40,Female,High,Papua,Home Appliances,7600270,4,None,FALSE
+55-580-7707,38,Male,High,Jakarta,Jewelry & Accessories,3812690,4,High,FALSE
+18-605-0795,45,Male,Middle,Medan,Hotels,6057865,9,Medium,FALSE
+86-268-2904,49,Male,High,Medan,Jewelry & Accessories,2462020,6,None,TRUE
+75-847-7630,37,Male,Middle,Makassar,Baby Products,6808220,8,High,FALSE
+76-910-2337,23,Male,Middle,Papua,Toys & Games,1432665,12,Medium,FALSE
+56-719-7145,48,Female,High,Medan,Clothing,5163825,9,High,FALSE
+14-025-2335,19,Male,Middle,Medan,Luxury Goods,995410,9,High,TRUE
+10-300-8072,46,Female,High,Papua,Home Appliances,4503215,3,Low,TRUE
+73-698-2326,39,Male,Middle,Bandung,Baby Products,3902900,6,High,TRUE
+01-023-2094,27,Male,Middle,Makassar,Sports & Outdoors,7448060,3,Low,FALSE
+65-359-4645,28,Female,Middle,Surabaya,Packages,7156505,10,Low,FALSE
+33-405-7978,50,Female,High,Surabaya,Software & Apps,4469270,12,None,FALSE
+09-783-7921,19,Female,High,Surabaya,Gardening & Outdoors,3008240,3,Low,TRUE
+76-561-2427,27,Female,Middle,Makassar,Travel & Leisure,3075975,11,High,TRUE
+82-467-3300,23,Male,High,Bandung,Baby Products,3354975,5,Medium,FALSE
+92-946-7398,19,Female,High,Medan,Baby Products,5560160,5,Low,TRUE
+59-891-2990,22,Female,Middle,Makassar,Luxury Goods,5697180,9,None,FALSE
+22-579-3978,40,Male,Middle,Surabaya,Clothing,1376090,10,High,FALSE
+22-352-0576,48,Male,Middle,Bandung,Food & Beverages,7220675,10,None,TRUE
+28-676-0614,49,Male,Middle,Jakarta,Clothing,4070455,3,Medium,FALSE
+07-211-9364,45,Female,Middle,Bandung,Home Appliances,1414220,8,High,TRUE
+98-238-6733,42,Female,High,Papua,Luxury Goods,6598195,5,High,FALSE
+72-006-3769,41,Female,High,Papua,Packages,6914705,9,Medium,TRUE
+75-845-3143,23,Female,High,Bandung,Software & Apps,7596705,8,Low,FALSE
+26-028-2671,44,Female,High,Bandung,Sports & Outdoors,6255335,6,High,FALSE
+55-876-7407,42,Female,High,Medan,Packages,6853325,10,High,FALSE
+47-720-9520,49,Female,Middle,Makassar,Sports & Outdoors,1220005,5,None,TRUE
+42-207-5005,45,Female,Middle,Jakarta,Furniture,7618405,2,Medium,TRUE
+47-266-2261,36,Female,Middle,Bandung,Furniture,7089545,12,High,TRUE
+77-642-7686,38,Female,High,Bandung,Food & Beverages,2768455,12,High,TRUE
+37-468-8133,44,Male,Middle,Makassar,Health Care,7633905,7,Low,TRUE
+00-335-5034,37,Female,High,Makassar,Home Appliances,6376700,3,High,TRUE
+95-148-1769,36,Male,Middle,Bandung,Clothing,1496060,10,Low,FALSE
+72-324-1243,34,Male,High,Makassar,Mobile Accessories,1014475,6,High,TRUE
+62-687-5354,23,Male,Middle,Jakarta,Health Care,3965830,3,High,TRUE
+54-634-0814,35,Male,High,Bandung,Furniture,1157695,10,Low,FALSE
+64-769-5737,45,Male,Middle,Makassar,Home Appliances,6676625,8,Low,FALSE
+62-892-2088,38,Male,High,Makassar,Software & Apps,5737635,2,Medium,FALSE
+53-951-2529,25,Male,Middle,Makassar,Electronics,5956030,6,High,FALSE
+00-264-3797,26,Male,Middle,Medan,Home Appliances,1984155,2,Medium,TRUE
+88-445-9235,46,Female,High,Medan,Luxury Goods,4671700,4,Medium,FALSE
+65-539-9955,18,Female,High,Medan,Health Supplements,6157375,6,Low,FALSE
+89-730-1134,46,Male,Middle,Jakarta,Gardening & Outdoors,1490790,3,None,FALSE
+74-051-7865,19,Female,High,Medan,Baby Products,6051820,4,Medium,TRUE
+40-450-4266,37,Female,Middle,Makassar,Health Care,953250,11,Medium,TRUE
+78-796-5651,35,Female,Middle,Bandung,Office Supplies,3633820,6,Medium,FALSE
+78-163-4800,43,Male,Middle,Surabaya,Toys & Games,4942020,6,Low,FALSE
+90-272-5701,28,Male,Middle,Surabaya,Toys & Games,5073460,6,None,TRUE
+14-118-5229,25,Male,Middle,Makassar,Books,7372420,3,Low,TRUE
+24-662-2119,47,Male,High,Surabaya,Hotels,1063145,9,Medium,FALSE
+61-794-8438,45,Male,Middle,Papua,Health Care,2062120,12,High,TRUE
+21-959-5766,24,Female,High,Papua,Luxury Goods,3047765,9,Medium,TRUE
+42-518-2602,30,Male,Middle,Surabaya,Home Appliances,7346380,12,Medium,TRUE
+35-850-8676,24,Female,High,Bandung,Luxury Goods,7324060,8,Low,FALSE
+07-958-2231,27,Female,Middle,Makassar,Baby Products,5204900,9,None,TRUE
+78-503-0416,25,Male,Middle,Surabaya,Luxury Goods,1326335,12,Low,TRUE
+46-167-7999,44,Female,Middle,Jakarta,Beauty & Personal Care,1681750,11,None,FALSE
+93-989-8649,26,Male,Middle,Surabaya,Food & Beverages,2673750,8,Medium,TRUE
+98-130-8811,18,Female,High,Bandung,Electronics,3298400,6,None,TRUE
+18-614-2070,47,Female,Middle,Makassar,Baby Products,5028355,7,None,TRUE
+80-277-3242,36,Male,High,Medan,Travel & Leisure,5307045,8,Low,FALSE
+44-949-9040,23,Female,High,Surabaya,Health Care,6926330,9,None,FALSE
+04-545-9162,49,Male,High,Papua,Electronics,7178825,3,None,TRUE
+51-320-2801,27,Female,High,Makassar,Groceries,1906345,12,High,TRUE
+50-510-5119,43,Male,High,Jakarta,Beauty & Personal Care,4997200,7,Medium,TRUE
+63-964-6954,19,Female,High,Surabaya,Health Care,1134445,5,Low,FALSE
+55-569-9247,41,Female,Middle,Makassar,Toys & Games,4325740,10,High,FALSE
+02-911-0447,29,Female,Middle,Bandung,Travel & Leisure,7422175,10,None,FALSE
+77-626-7240,25,Male,High,Papua,Food & Beverages,1339045,5,High,FALSE
+75-915-9803,45,Male,High,Bandung,Baby Products,2981425,10,High,TRUE
+78-905-2660,36,Female,Middle,Surabaya,Beauty & Personal Care,3647460,7,Medium,FALSE
+02-677-6735,21,Female,High,Medan,Electronics,3295765,8,Low,FALSE
+20-460-9796,47,Female,Middle,Papua,Food & Beverages,3822765,8,None,TRUE
+57-587-4005,26,Female,Middle,Makassar,Toys & Games,3541285,9,None,FALSE
+99-477-8256,25,Female,Middle,Papua,Gardening & Outdoors,5328435,6,Low,TRUE
+03-992-3728,26,Female,Middle,Medan,Groceries,5259460,9,Medium,FALSE
+24-878-4507,34,Male,High,Surabaya,Clothing,5069275,9,Low,FALSE
+22-106-8347,48,Male,High,Makassar,Toys & Games,5183975,2,Medium,TRUE
+81-479-0790,19,Male,High,Makassar,Food & Beverages,5675480,12,Medium,FALSE
+03-023-9932,37,Female,High,Makassar,Groceries,7467590,8,Medium,TRUE
+36-632-2460,23,Female,High,Bandung,Gardening & Outdoors,2037940,8,None,TRUE
+32-799-7704,34,Female,High,Papua,Health Care,6244330,11,High,FALSE
+09-369-0588,42,Male,High,Jakarta,Gardening & Outdoors,5164290,6,Medium,TRUE
+87-727-6434,28,Female,High,Jakarta,Arts & Crafts,1135065,8,Low,TRUE
+18-793-9543,28,Male,High,Makassar,Furniture,6982285,11,None,TRUE
+63-625-5757,33,Male,Middle,Jakarta,Food & Beverages,2723970,5,Medium,FALSE
+93-413-4758,31,Female,Middle,Papua,Hotels,2830300,4,Low,FALSE
+15-663-7994,20,Female,Middle,Surabaya,Jewelry & Accessories,7715900,2,High,TRUE
+29-319-4519,32,Male,High,Makassar,Food & Beverages,2653135,4,High,FALSE
+40-347-2903,27,Female,Middle,Papua,Jewelry & Accessories,6600210,3,Low,TRUE
+18-452-1635,19,Female,Middle,Bandung,Sports & Outdoors,3263990,10,Low,TRUE
+47-710-5471,50,Male,Middle,Medan,Beauty & Personal Care,3094420,11,High,FALSE
+88-167-7129,40,Male,High,Jakarta,Packages,2514410,10,High,TRUE
+86-771-9082,20,Male,High,Makassar,Sports & Outdoors,6227125,8,None,FALSE
+46-678-4172,24,Female,Middle,Medan,Luxury Goods,5671140,12,Medium,TRUE
+14-249-1256,46,Male,Middle,Papua,Beauty & Personal Care,903495,6,Medium,FALSE
+75-617-1460,50,Male,High,Papua,Health Supplements,1036330,3,Medium,TRUE
+10-247-0192,29,Female,High,Jakarta,Groceries,4329770,5,Medium,FALSE
+94-120-9525,34,Female,High,Medan,Electronics,5556750,3,Medium,FALSE
+22-234-9315,44,Female,High,Bandung,Jewelry & Accessories,5594260,7,None,FALSE
+37-560-7247,38,Male,Middle,Medan,Groceries,5802580,4,None,FALSE
+91-857-0797,22,Female,High,Bandung,Baby Products,6748235,11,Low,TRUE
+19-344-0102,44,Male,High,Bandung,Home Appliances,7119150,9,None,FALSE
+48-609-7715,43,Female,High,Bandung,Jewelry & Accessories,6616795,2,High,TRUE
+13-571-6506,25,Male,Middle,Bandung,Animal Feed,5663235,10,Low,TRUE
+47-073-6440,21,Female,Middle,Medan,Mobile Accessories,7552375,4,High,FALSE
+50-303-1693,29,Female,Middle,Bandung,Baby Products,2901910,10,Medium,FALSE
+69-157-9577,41,Male,High,Makassar,Toys & Games,6150710,7,None,TRUE
+09-513-4923,38,Female,High,Medan,Travel & Leisure,3824470,10,Medium,FALSE
+82-975-8569,26,Male,High,Jakarta,Luxury Goods,1995470,12,Medium,FALSE
+70-774-7728,41,Female,Middle,Surabaya,Toys & Games,5264265,2,Medium,TRUE
+13-015-8097,46,Female,High,Papua,Sports & Outdoors,3465490,11,High,FALSE
+68-391-7279,39,Male,High,Medan,Gardening & Outdoors,6927260,5,Medium,TRUE
+28-764-3337,43,Male,Middle,Bandung,Electronics,2722575,11,Low,FALSE
+00-285-9607,44,Female,Middle,Medan,Clothing,7618095,10,Low,FALSE
+04-832-3559,26,Male,Middle,Bandung,Beauty & Personal Care,1370200,5,Medium,TRUE
+27-613-5005,29,Male,Middle,Jakarta,Office Supplies,6678950,8,High,FALSE
+49-825-3438,50,Male,High,Jakarta,Mobile Accessories,6746065,2,None,FALSE
+31-783-9785,19,Female,High,Bandung,Toys & Games,3389075,3,Low,TRUE
+58-059-8187,27,Male,High,Surabaya,Health Supplements,3218730,10,High,FALSE
+74-882-6648,34,Female,High,Papua,Arts & Crafts,2186895,7,High,FALSE
+03-180-9200,39,Male,High,Medan,Packages,2211850,6,None,FALSE
+46-578-1425,44,Male,High,Medan,Animal Feed,993395,10,None,TRUE
+13-588-5783,20,Female,Middle,Medan,Toys & Games,1957030,2,None,TRUE
+25-085-7917,42,Female,Middle,Surabaya,Hotels,3023275,5,Medium,TRUE
+66-085-1226,22,Female,Middle,Medan,Groceries,6709020,7,High,FALSE
+37-037-1765,30,Male,High,Papua,Jewelry & Accessories,6263860,6,High,FALSE
+48-630-6410,39,Male,High,Jakarta,Groceries,6793030,10,None,TRUE
+50-471-0212,19,Female,High,Papua,Jewelry & Accessories,3611810,4,Medium,FALSE
+48-642-5768,26,Female,Middle,Papua,Packages,4237855,7,Low,TRUE
+15-152-9751,21,Female,High,Jakarta,Furniture,5253880,10,High,TRUE
+23-451-9920,37,Male,Middle,Surabaya,Luxury Goods,1176605,12,Low,TRUE
+09-775-4058,23,Male,High,Jakarta,Mobile Accessories,6590755,12,Low,TRUE
+43-595-0966,46,Male,Middle,Medan,Software & Apps,4166400,2,High,FALSE
+56-592-0089,35,Female,Middle,Bandung,Health Care,2646005,10,Low,TRUE
+29-374-1297,33,Female,Middle,Surabaya,Animal Feed,6882775,10,Low,TRUE
+80-728-6133,47,Male,Middle,Bandung,Gardening & Outdoors,3954050,5,High,TRUE
+58-502-7490,32,Male,High,Jakarta,Health Supplements,3664820,6,Medium,FALSE
+23-537-0742,20,Male,Middle,Bandung,Furniture,3126195,11,High,TRUE
+22-483-3115,37,Female,High,Medan,Arts & Crafts,6052905,6,Medium,FALSE
+57-372-5969,35,Female,High,Surabaya,Clothing,6855495,9,Medium,FALSE
+37-283-9076,18,Female,Middle,Surabaya,Furniture,1388800,10,None,FALSE
+39-075-3518,27,Male,Middle,Surabaya,Sports & Outdoors,2584470,6,High,FALSE
+84-315-7189,29,Female,High,Bandung,Mobile Accessories,4638840,12,High,FALSE
+75-964-5589,24,Male,High,Jakarta,Sports & Outdoors,6270835,5,Medium,FALSE
+06-594-3417,27,Male,High,Medan,Software & Apps,5344555,10,Low,TRUE
+08-297-3351,34,Male,High,Surabaya,Health Care,3376520,10,None,TRUE
+05-546-5128,21,Male,Middle,Surabaya,Sports & Outdoors,6902770,9,Low,TRUE
+79-759-6726,18,Male,High,Bandung,Home Appliances,2351815,3,Medium,FALSE
+12-851-1771,50,Female,High,Surabaya,Electronics,1917815,9,High,FALSE
+79-960-1714,31,Male,Middle,Papua,Travel & Leisure,5743370,2,Low,TRUE
+30-417-6981,45,Male,High,Papua,Baby Products,2369485,3,High,FALSE
+91-532-5399,29,Male,Middle,Jakarta,Health Supplements,4584125,4,High,TRUE
+89-997-9041,36,Male,High,Medan,Office Supplies,5550705,11,High,FALSE
+26-235-6745,27,Female,High,Medan,Jewelry & Accessories,985800,12,High,FALSE
+99-080-9462,24,Male,High,Surabaya,Books,6502715,3,High,FALSE
+87-056-8987,49,Female,High,Makassar,Groceries,7624760,10,Medium,FALSE
+06-160-8063,21,Female,Middle,Bandung,Sports & Outdoors,1773820,4,Low,FALSE
+73-434-2308,19,Female,Middle,Medan,Mobile Accessories,6026710,10,Low,FALSE
+84-260-6464,23,Female,Middle,Surabaya,Mobile Accessories,903960,7,Low,TRUE
+00-149-4481,28,Female,High,Jakarta,Groceries,7203780,2,Low,FALSE
+05-710-6109,27,Female,High,Papua,Home Appliances,1812260,7,None,TRUE
+84-724-8407,47,Female,High,Bandung,Jewelry & Accessories,6149780,8,None,TRUE
+45-795-1873,20,Female,High,Makassar,Packages,6096925,7,High,TRUE
+06-647-3248,26,Female,High,Makassar,Electronics,1767465,7,Medium,TRUE
+06-767-5206,49,Male,High,Makassar,Health Supplements,1704535,4,None,TRUE
+94-288-4423,39,Female,High,Medan,Beauty & Personal Care,4808565,12,None,TRUE
+49-891-9711,22,Male,Middle,Bandung,Travel & Leisure,5938515,3,Medium,FALSE
+08-806-0588,25,Male,High,Medan,Health Supplements,6740330,11,High,TRUE
+94-746-2001,30,Female,Middle,Medan,Office Supplies,7581050,9,Low,TRUE
+38-943-5744,19,Male,High,Jakarta,Jewelry & Accessories,4466325,10,High,TRUE
+98-535-8497,35,Male,High,Surabaya,Clothing,1640985,12,Low,FALSE
+33-243-8793,45,Male,Middle,Makassar,Luxury Goods,2532700,3,High,TRUE
+99-581-5577,20,Male,High,Bandung,Gardening & Outdoors,6555260,6,None,FALSE
+64-180-2404,48,Male,Middle,Surabaya,Gardening & Outdoors,5602940,10,Medium,TRUE
+73-097-0986,23,Male,Middle,Makassar,Hotels,4197710,2,None,TRUE
+88-051-0567,49,Female,High,Papua,Toys & Games,5770030,11,None,FALSE
+44-715-9594,23,Female,Middle,Surabaya,Electronics,3233145,3,Medium,TRUE
+84-188-6577,39,Male,Middle,Jakarta,Gardening & Outdoors,2529910,8,High,FALSE
+19-116-4723,45,Male,High,Bandung,Animal Feed,5657190,7,Low,TRUE
+21-783-9242,31,Male,High,Papua,Groceries,2207665,3,High,TRUE
+95-528-2313,19,Female,Middle,Makassar,Electronics,6970660,3,High,TRUE
+94-682-4886,27,Male,Middle,Jakarta,Gardening & Outdoors,3744180,12,High,TRUE
+55-944-9669,32,Female,Middle,Bandung,Clothing,3870815,5,Low,TRUE
+55-944-9669,32,Female,Middle,Bandung,Clothing,3870815,5,Low,TRUE
+32-314-2958,24,Male,Middle,Papua,Home Appliances,6778150,7,High,TRUE
+67-697-2331,22,Male,Middle,Medan,Groceries,4297995,4,None,TRUE
+28-855-1639,46,Male,High,Jakarta,Electronics,6911915,6,High,FALSE
+38-069-8615,37,Female,Middle,Surabaya,Software & Apps,3763245,6,High,TRUE
+58-233-5963,34,Male,High,Medan,Travel & Leisure,6092895,8,Medium,FALSE
+02-004-0620,32,Male,Middle,Surabaya,Groceries,2597955,2,None,TRUE
+78-822-9328,44,Male,High,Papua,Gardening & Outdoors,5025410,2,None,FALSE
+73-359-1998,24,Female,Middle,Makassar,Mobile Accessories,2469150,11,Medium,FALSE
+84-459-7736,22,Male,Middle,Makassar,Luxury Goods,5028045,5,High,TRUE
+07-395-5818,37,Female,High,Bandung,Clothing,3082795,10,High,FALSE
+07-560-6637,41,Female,Middle,Bandung,Clothing,4451290,7,None,TRUE
+61-926-1691,32,Male,High,Papua,Office Supplies,2514720,7,None,FALSE
+68-129-1060,37,Female,High,Papua,Arts & Crafts,1441035,6,Medium,FALSE
+04-052-5592,41,Male,Middle,Surabaya,Food & Beverages,2238045,12,High,TRUE
+41-215-6092,37,Female,High,Surabaya,Books,3927235,12,None,FALSE
+89-833-7175,43,Male,Middle,Papua,Animal Feed,3249110,12,Medium,TRUE
+08-117-9893,49,Male,High,Bandung,Baby Products,6380110,6,Medium,TRUE
+24-109-2173,27,Female,High,Surabaya,Food & Beverages,6014155,2,High,FALSE
+79-939-2140,41,Male,Middle,Makassar,Health Care,787090,6,Low,FALSE
+95-999-0984,33,Male,High,Jakarta,Packages,2477210,2,High,TRUE
+64-799-3174,46,Male,Middle,Bandung,Travel & Leisure,1231165,3,Medium,FALSE
+27-018-2262,42,Female,Middle,Medan,Travel & Leisure,2036080,4,None,FALSE
+38-881-0766,27,Male,Middle,Makassar,Beauty & Personal Care,4646125,12,Low,FALSE
+17-344-8603,29,Male,High,Surabaya,Animal Feed,4950390,9,Low,TRUE
+51-387-9144,38,Male,High,Medan,Electronics,7385440,8,None,FALSE
+42-101-8525,21,Male,Middle,Papua,Gardening & Outdoors,4665655,9,High,FALSE
+69-157-6752,18,Male,Middle,Papua,Electronics,5870005,5,Medium,TRUE
+27-843-5553,44,Female,Middle,Papua,Mobile Accessories,4871960,6,High,TRUE
+04-468-5487,22,Male,Middle,Jakarta,Office Supplies,3268950,12,None,FALSE
+08-584-8296,18,Female,Middle,Makassar,Food & Beverages,3383030,4,Low,FALSE
+81-014-4502,24,Female,Middle,Makassar,Animal Feed,6574790,5,None,FALSE
+65-167-9819,28,Male,High,Papua,Luxury Goods,6676625,11,Low,TRUE
+19-925-2376,24,Male,High,Jakarta,Mobile Accessories,2525725,11,High,FALSE
+03-669-7519,40,Female,Middle,Jakarta,Health Supplements,3250040,2,None,FALSE
+00-520-4376,50,Male,High,Bandung,Beauty & Personal Care,1518535,2,Low,TRUE
+62-701-1037,49,Male,Middle,Makassar,Books,2983905,9,Medium,TRUE
+87-806-4478,35,Male,Middle,Surabaya,Electronics,2353055,8,Medium,FALSE
+04-809-8989,25,Female,High,Surabaya,Furniture,3708840,8,Medium,FALSE
+39-867-1989,40,Female,High,Surabaya,Mobile Accessories,4745635,4,Medium,FALSE
+45-584-7333,40,Female,High,Makassar,Electronics,5740890,11,None,TRUE
+85-885-6579,50,Male,Middle,Bandung,Arts & Crafts,5371990,6,High,FALSE
+65-457-2840,24,Male,Middle,Bandung,Software & Apps,4535920,5,None,TRUE
+82-726-1255,30,Female,Middle,Surabaya,Travel & Leisure,1595105,12,Medium,TRUE
+90-602-3583,32,Female,High,Medan,Home Appliances,4398590,4,None,TRUE
+02-711-1034,48,Female,High,Papua,Beauty & Personal Care,797320,10,High,TRUE
+27-347-7437,44,Female,High,Papua,Luxury Goods,6288350,12,Low,TRUE
+95-675-7816,19,Female,High,Bandung,Groceries,4831970,11,Low,TRUE
+87-418-1400,39,Male,Middle,Jakarta,Clothing,4548165,9,Medium,FALSE
+73-991-0066,35,Female,High,Medan,Baby Products,6486905,6,Low,FALSE
+62-273-8089,39,Male,Middle,Makassar,Health Care,1317965,9,Medium,TRUE
+51-220-3072,31,Male,Middle,Surabaya,Mobile Accessories,2556570,4,High,TRUE
+17-648-0171,38,Female,High,Surabaya,Groceries,1384460,11,Low,TRUE
+11-975-9054,33,Male,Middle,Jakarta,Clothing,6018030,2,High,FALSE
+75-518-2831,33,Male,Middle,Jakarta,Jewelry & Accessories,1653695,5,Medium,FALSE
+13-297-9777,42,Female,Middle,Jakarta,Packages,4667980,10,None,FALSE
+81-604-7906,49,Male,Middle,Jakarta,Hotels,956505,6,Low,FALSE
+87-518-0375,46,Female,Middle,Surabaya,Sports & Outdoors,1291615,11,Medium,TRUE
+53-437-2629,42,Male,High,Medan,Books,6383055,4,High,TRUE
+46-681-0764,44,Female,Middle,Surabaya,Luxury Goods,1781415,3,High,TRUE
+43-990-6454,33,Female,High,Jakarta,Jewelry & Accessories,6795510,11,Medium,TRUE
+55-570-3804,36,Male,Middle,Makassar,Luxury Goods,2944535,2,High,TRUE
+29-067-4901,35,Male,High,Bandung,Health Supplements,3518965,12,High,TRUE
+93-957-6269,26,Male,High,Medan,Home Appliances,4316595,4,Low,TRUE
+81-225-6647,43,Female,High,Papua,Animal Feed,1868680,5,None,FALSE
+64-706-7841,25,Male,High,Medan,Gardening & Outdoors,4974570,11,High,FALSE
+47-178-9529,37,Female,High,Surabaya,Jewelry & Accessories,3374660,10,Medium,FALSE
+63-808-3641,25,Male,High,Papua,Home Appliances,3450455,3,Medium,FALSE
+85-738-8909,40,Female,Middle,Surabaya,Beauty & Personal Care,1592315,3,None,FALSE
+40-224-1057,40,Female,Middle,Surabaya,Sports & Outdoors,6616485,2,None,FALSE
+24-853-1635,20,Female,Middle,Medan,Jewelry & Accessories,7335840,5,Medium,FALSE
+61-627-1822,39,Male,High,Makassar,Jewelry & Accessories,6913465,9,Low,TRUE
+89-392-5002,19,Female,High,Bandung,Arts & Crafts,4463225,3,None,TRUE
+71-573-6085,31,Female,Middle,Medan,Luxury Goods,2054060,6,Medium,TRUE
+91-810-3612,36,Female,Middle,Bandung,Sports & Outdoors,5877600,7,Medium,TRUE
+07-323-0255,31,Female,Middle,Surabaya,Groceries,6936715,4,High,TRUE
+81-054-5343,45,Female,High,Jakarta,Office Supplies,2145820,4,None,FALSE
+14-854-9545,45,Female,Middle,Bandung,Home Appliances,6829610,8,None,TRUE
+52-150-4629,23,Female,High,Bandung,Sports & Outdoors,2262690,4,Low,FALSE
+48-918-4473,28,Male,Middle,Jakarta,Software & Apps,6287730,11,Medium,TRUE
+06-764-5496,26,Female,High,Surabaya,Clothing,6509690,7,None,TRUE
+67-036-4295,50,Female,Middle,Makassar,Arts & Crafts,4032170,5,None,TRUE
+35-880-9374,36,Female,Middle,Papua,Arts & Crafts,5718105,10,High,FALSE
+08-614-6177,32,Male,Middle,Surabaya,Home Appliances,1554960,2,Low,FALSE
+35-879-0014,34,Male,High,Medan,Food & Beverages,1671210,7,High,FALSE
+91-570-2695,50,Male,Middle,Medan,Baby Products,1300140,11,Medium,TRUE
+54-193-3526,24,Female,Middle,Surabaya,Travel & Leisure,1259375,9,Low,TRUE
+55-237-7991,49,Male,Middle,Bandung,Home Appliances,1949900,12,None,FALSE
+90-569-7391,18,Female,Middle,Jakarta,Health Supplements,3067450,11,Medium,TRUE
+88-395-8741,44,Male,High,Bandung,Travel & Leisure,4635895,8,High,FALSE
+06-638-0433,41,Male,High,Surabaya,Travel & Leisure,1229150,10,Low,FALSE
+84-208-7045,33,Male,High,Bandung,Books,863815,12,Medium,FALSE
+71-568-0867,46,Male,High,Jakarta,Software & Apps,3974820,8,High,FALSE
+18-925-1867,23,Female,High,Makassar,Toys & Games,5226755,12,Low,TRUE
+69-394-1424,35,Female,High,Makassar,Software & Apps,7672035,12,Low,FALSE
+91-695-8237,31,Female,Middle,Jakarta,Arts & Crafts,3697990,6,Medium,TRUE
+68-458-0904,20,Female,High,Papua,Sports & Outdoors,2044450,8,None,TRUE
+28-862-5550,49,Female,Middle,Bandung,Food & Beverages,6246965,12,Medium,TRUE
+85-666-7449,26,Female,High,Papua,Health Supplements,5248300,10,Medium,FALSE
+30-987-7421,36,Male,Middle,Papua,Furniture,5663390,10,High,FALSE
+39-107-6852,21,Male,Middle,Jakarta,Sports & Outdoors,6726845,11,High,FALSE
+85-467-6564,35,Female,Middle,Surabaya,Health Care,7687225,5,High,FALSE
+82-692-9306,41,Male,High,Medan,Baby Products,5521410,7,Medium,FALSE
+18-593-8611,22,Male,High,Surabaya,Health Supplements,2424200,7,Low,FALSE
+93-093-0556,42,Male,Middle,Makassar,Sports & Outdoors,7042580,3,Low,TRUE
+59-080-5779,50,Male,High,Bandung,Software & Apps,7534085,11,Medium,FALSE
+64-915-2968,30,Female,High,Bandung,Packages,6631830,11,Medium,TRUE
+94-495-3402,49,Female,High,Surabaya,Beauty & Personal Care,3644515,10,Medium,TRUE
+84-458-6432,40,Female,Middle,Makassar,Groceries,5599685,4,None,TRUE
+46-452-3822,38,Female,Middle,Papua,Furniture,3035365,10,None,TRUE
+54-877-5699,21,Male,High,Jakarta,Sports & Outdoors,5274805,10,Low,FALSE
+15-146-4456,40,Male,High,Jakarta,Animal Feed,7589885,5,None,FALSE
+76-620-2994,26,Male,High,Jakarta,Mobile Accessories,7478750,11,None,TRUE
+60-834-3348,32,Female,Middle,Surabaya,Jewelry & Accessories,6713670,10,Medium,FALSE
+77-742-5663,47,Female,Middle,Makassar,Jewelry & Accessories,5823350,6,Low,TRUE
+05-167-0833,21,Male,Middle,Papua,Travel & Leisure,5910150,12,High,FALSE
+86-182-9556,34,Male,High,Bandung,Electronics,3258255,4,High,FALSE
+14-415-2802,29,Male,Middle,Jakarta,Health Supplements,6336555,8,Low,FALSE
+49-469-9163,20,Female,Middle,Bandung,Jewelry & Accessories,1839075,10,Low,TRUE
+67-937-6624,50,Male,High,Surabaya,Software & Apps,2579975,7,Low,TRUE
+91-761-9492,29,Female,Middle,Makassar,Travel & Leisure,5972460,10,Low,TRUE
+19-184-7665,25,Female,Middle,Bandung,Mobile Accessories,4556845,10,None,FALSE
+19-383-9741,37,Male,Middle,Bandung,Toys & Games,2501855,9,Low,TRUE
+15-625-4047,39,Male,Middle,Makassar,Groceries,2029260,2,High,TRUE
+81-820-4735,48,Female,Middle,Papua,Toys & Games,7263300,4,Medium,FALSE
+71-436-6908,47,Male,High,Bandung,Toys & Games,3682335,10,Medium,TRUE
+73-145-5784,50,Female,Middle,Bandung,Furniture,6125290,5,None,TRUE
+50-637-1630,42,Male,High,Makassar,Electronics,6633070,12,High,FALSE
+44-938-7475,28,Female,High,Papua,Hotels,1259065,9,High,FALSE
+55-279-3045,23,Male,Middle,Surabaya,Hotels,3990165,5,Low,TRUE
+59-997-3903,42,Male,High,Medan,Arts & Crafts,4738815,7,Medium,TRUE
+12-029-9344,32,Male,High,Surabaya,Toys & Games,3872210,10,High,TRUE
+41-130-2570,33,Male,Middle,Makassar,Animal Feed,5158245,11,None,FALSE
+25-285-7453,32,Male,High,Medan,Arts & Crafts,1222950,3,Low,FALSE
+47-225-8686,29,Male,High,Bandung,Health Care,1899525,9,Low,FALSE
+33-519-4214,25,Female,High,Papua,Mobile Accessories,4767955,6,Low,TRUE
+03-991-2098,41,Female,High,Medan,Software & Apps,2361115,2,None,FALSE
+30-735-8744,24,Female,Middle,Jakarta,Mobile Accessories,7208585,8,Medium,FALSE
+13-848-5757,32,Female,High,Papua,Sports & Outdoors,7722565,10,None,TRUE
+21-300-2001,41,Female,Middle,Bandung,Luxury Goods,7613290,3,High,FALSE
+38-587-1781,18,Male,Middle,Jakarta,Health Care,2316010,3,Medium,TRUE
+66-557-1474,25,Male,Middle,Makassar,Furniture,1273015,9,Medium,TRUE
+03-422-8710,49,Male,Middle,Jakarta,Sports & Outdoors,6590290,4,Medium,TRUE
+39-731-8532,39,Male,High,Bandung,Arts & Crafts,2729860,8,Medium,TRUE
+80-830-3184,47,Female,High,Bandung,Jewelry & Accessories,1089650,6,None,TRUE
+97-505-8416,43,Male,Middle,Papua,Luxury Goods,4950545,7,None,FALSE
+98-585-4742,38,Female,High,Surabaya,Home Appliances,1759405,11,High,TRUE
+51-302-9537,40,Female,High,Jakarta,Animal Feed,7637470,2,Low,TRUE
+88-313-2633,33,Male,Middle,Makassar,Furniture,2228900,9,Low,TRUE
+61-286-0069,18,Female,Middle,Surabaya,Arts & Crafts,2457370,5,Low,FALSE
+35-907-0586,39,Female,High,Makassar,Furniture,3307545,6,Medium,FALSE
+30-522-1574,31,Male,Middle,Makassar,Health Supplements,1971290,2,Medium,FALSE
+43-715-8777,27,Male,Middle,Surabaya,Luxury Goods,7387765,10,Medium,TRUE
+94-692-4313,31,Female,High,Medan,Animal Feed,868310,3,None,FALSE
+96-915-4091,36,Female,High,Bandung,Electronics,6184035,3,High,FALSE
+67-073-5578,27,Female,Middle,Papua,Groceries,828475,6,High,FALSE
+27-010-9462,21,Female,Middle,Jakarta,Groceries,948445,2,None,TRUE
+19-689-4556,50,Female,Middle,Surabaya,Luxury Goods,7305305,4,High,FALSE
+53-143-6147,49,Female,High,Medan,Health Care,2777445,10,Low,FALSE
+02-725-7664,43,Female,High,Surabaya,Food & Beverages,4566455,10,None,FALSE
+54-439-4748,35,Female,High,Surabaya,Health Care,5819475,6,High,FALSE
+66-949-9895,21,Male,Middle,Makassar,Electronics,1294250,12,None,TRUE
+20-648-1010,34,Male,High,Makassar,Home Appliances,1703140,7,Low,FALSE
+79-939-5393,21,Female,High,Papua,Office Supplies,2829370,11,Medium,FALSE
+89-249-8369,23,Female,High,Surabaya,Furniture,7214940,3,Medium,FALSE
+85-366-1482,31,Female,Middle,Makassar,Health Care,3480060,8,Low,TRUE
+34-874-7357,21,Male,High,Bandung,Beauty & Personal Care,4361235,12,Low,FALSE
+11-820-5039,22,Female,Middle,Papua,Office Supplies,1948040,2,None,TRUE
+73-846-1423,38,Female,High,Medan,Beauty & Personal Care,2762255,7,Low,FALSE
+90-363-8040,27,Male,High,Surabaya,Health Care,7490065,7,Medium,TRUE
+65-533-1660,18,Male,Middle,Makassar,Home Appliances,6437150,11,Low,FALSE
+98-376-8787,36,Male,High,Surabaya,Electronics,1325560,7,Medium,FALSE
+18-938-9896,44,Female,Middle,Makassar,Packages,6545805,2,Medium,TRUE
+04-829-7037,48,Female,High,Makassar,Arts & Crafts,1091510,11,High,FALSE
+93-455-0576,23,Female,Middle,Jakarta,Toys & Games,6779700,10,High,FALSE
+84-637-9188,35,Male,Middle,Surabaya,Jewelry & Accessories,3210205,4,High,TRUE
+81-111-7832,50,Female,High,Bandung,Animal Feed,5872485,2,None,TRUE
+77-401-8183,30,Female,High,Bandung,Baby Products,5409500,10,Low,FALSE
+01-484-8220,38,Male,Middle,Surabaya,Hotels,5119185,3,High,TRUE
+11-121-0709,42,Male,Middle,Bandung,Health Supplements,6359495,10,Low,TRUE
+36-649-0081,24,Female,High,Medan,Hotels,6213330,7,High,TRUE
+61-176-8712,27,Female,High,Medan,Beauty & Personal Care,3489360,11,Medium,TRUE
+75-526-2611,36,Female,High,Medan,Beauty & Personal Care,4238940,12,Low,TRUE
+72-339-1854,19,Female,High,Bandung,Furniture,5639520,11,Low,TRUE
+80-360-6324,24,Female,High,Bandung,Packages,4690300,9,Medium,FALSE
+24-591-4327,35,Male,High,Makassar,Animal Feed,4914895,6,High,TRUE
+58-487-8848,38,Female,High,Bandung,Beauty & Personal Care,2996460,9,None,FALSE
+61-453-3503,34,Male,High,Medan,Software & Apps,4374720,6,None,TRUE
+63-680-7694,29,Female,High,Papua,Hotels,2389945,6,Medium,TRUE
+51-431-7150,41,Female,Middle,Surabaya,Furniture,1304325,10,High,TRUE
+23-039-9347,41,Male,Middle,Papua,Health Supplements,3327695,7,Medium,TRUE
+18-832-6916,32,Male,High,Surabaya,Animal Feed,948755,12,None,TRUE
+29-438-8126,36,Female,Middle,Surabaya,Packages,7168440,11,Medium,FALSE
+68-201-1633,33,Male,Middle,Surabaya,Software & Apps,6962290,3,Medium,TRUE
+07-314-2945,25,Female,Middle,Surabaya,Mobile Accessories,4872580,7,Medium,TRUE
+64-490-6975,46,Female,Middle,Papua,Jewelry & Accessories,5699350,3,None,TRUE
+91-789-3191,41,Female,High,Surabaya,Sports & Outdoors,3564535,7,None,FALSE
+83-714-9649,28,Female,Middle,Surabaya,Home Appliances,3511215,3,High,TRUE
+33-203-4230,23,Male,High,Makassar,Software & Apps,3383960,2,High,FALSE
+90-918-2833,48,Female,High,Medan,Furniture,2056385,7,Low,TRUE
+53-409-1176,26,Male,High,Jakarta,Arts & Crafts,6462880,7,High,FALSE
+52-491-3386,39,Female,High,Papua,Arts & Crafts,7122405,7,High,TRUE
+10-870-3357,45,Male,Middle,Makassar,Sports & Outdoors,7563380,2,Low,TRUE
+41-816-7753,22,Male,Middle,Bandung,Toys & Games,2326705,7,Low,TRUE
+68-296-5978,36,Male,High,Surabaya,Hotels,3392485,5,Medium,TRUE
+03-874-9055,29,Female,Middle,Makassar,Mobile Accessories,6774430,7,Low,FALSE
+28-123-8406,33,Male,High,Bandung,Beauty & Personal Care,1899990,2,Low,TRUE
+01-089-2223,35,Male,High,Papua,Food & Beverages,3023585,8,High,FALSE
+23-758-1012,39,Female,Middle,Jakarta,Books,2945930,9,None,TRUE
+34-788-8387,38,Female,Middle,Papua,Groceries,7529280,10,Medium,TRUE
+53-865-9342,27,Female,High,Bandung,Books,3759835,7,Low,TRUE
+79-052-8470,35,Male,Middle,Papua,Arts & Crafts,4698515,2,High,FALSE
+86-359-7320,43,Female,Middle,Makassar,Toys & Games,2109550,5,Low,FALSE
+27-111-2242,40,Female,High,Makassar,Electronics,3859810,11,Medium,TRUE
+84-538-0238,19,Male,Middle,Makassar,Office Supplies,7234470,7,Medium,TRUE
+04-660-2742,46,Female,High,Makassar,Animal Feed,3554150,6,None,FALSE
+96-496-9833,30,Female,High,Bandung,Packages,6983060,8,High,TRUE
+27-672-6081,35,Male,High,Jakarta,Groceries,3819820,4,Medium,FALSE
+66-033-0540,34,Male,High,Makassar,Home Appliances,1449560,2,None,FALSE
+99-643-9845,28,Female,Middle,Jakarta,Groceries,2135125,6,High,FALSE
+27-571-9402,44,Female,Middle,Bandung,Home Appliances,1218920,5,High,TRUE
+10-430-5821,25,Male,High,Makassar,Software & Apps,3329710,9,None,TRUE
+36-835-7445,45,Male,Middle,Surabaya,Mobile Accessories,889545,3,None,FALSE
+41-602-4042,47,Female,High,Jakarta,Beauty & Personal Care,5640605,10,Medium,TRUE
+63-743-6962,39,Male,Middle,Jakarta,Travel & Leisure,4724245,12,Low,TRUE
+66-772-9922,32,Male,High,Jakarta,Jewelry & Accessories,5641690,4,None,TRUE
+23-246-5927,47,Male,Middle,Surabaya,Books,3868800,7,Low,TRUE
+74-022-7557,19,Male,High,Bandung,Electronics,5348120,12,Low,TRUE
+78-214-5658,48,Female,Middle,Medan,Arts & Crafts,916825,10,None,FALSE
+25-286-8786,27,Male,High,Bandung,Home Appliances,7158055,12,Medium,TRUE
+55-955-9889,31,Female,High,Jakarta,Health Care,4353640,4,High,TRUE
+34-237-3943,44,Male,Middle,Bandung,Luxury Goods,4397350,8,Medium,FALSE
+19-386-9088,24,Female,High,Papua,Luxury Goods,6385225,10,None,TRUE
+16-583-2801,32,Female,Middle,Bandung,Gardening & Outdoors,7379705,5,None,TRUE
+83-752-5439,28,Female,Middle,Jakarta,Gardening & Outdoors,6188220,7,Medium,FALSE
+25-485-2023,26,Male,Middle,Medan,Jewelry & Accessories,1407245,12,Medium,FALSE
+90-822-7664,38,Female,Middle,Makassar,Animal Feed,3558180,9,None,TRUE
+22-039-6819,28,Female,Middle,Jakarta,Sports & Outdoors,2487285,7,None,TRUE
+50-395-1941,30,Male,High,Papua,Software & Apps,1623470,6,None,FALSE
+99-771-9310,37,Female,High,Papua,Food & Beverages,6199225,10,Low,TRUE
+18-518-0140,47,Female,High,Jakarta,Baby Products,5228615,8,None,FALSE
+57-000-8646,41,Female,High,Bandung,Jewelry & Accessories,3174865,6,High,TRUE
+81-926-9297,22,Female,Middle,Makassar,Packages,3006070,11,None,FALSE
+53-070-2625,46,Male,High,Medan,Mobile Accessories,7135735,10,Low,TRUE
+63-217-7638,34,Female,Middle,Papua,Arts & Crafts,4607995,9,None,TRUE
+64-120-6212,31,Male,Middle,Papua,Books,6036785,4,Low,TRUE
+18-518-0140,47,Female,High,Jakarta,Baby Products,5228615,8,None,FALSE
+01-404-3425,38,Male,High,Jakarta,Home Appliances,5735775,11,Medium,TRUE
+68-971-6148,45,Male,High,Papua,Jewelry & Accessories,7164720,2,Low,TRUE
+22-053-4627,30,Female,High,Makassar,Food & Beverages,7324215,11,Medium,FALSE
+09-258-0424,45,Female,Middle,Surabaya,Home Appliances,6312995,3,Low,FALSE
+56-782-9001,18,Male,High,Bandung,Mobile Accessories,2102575,8,Low,FALSE
+05-506-7216,36,Male,High,Surabaya,Animal Feed,5461425,4,Low,FALSE
+47-356-9730,25,Female,High,Medan,Books,6846815,12,Low,TRUE
+42-898-6421,21,Female,High,Medan,Luxury Goods,1642225,12,Low,FALSE
+17-364-8685,26,Male,High,Makassar,Groceries,5448870,11,None,TRUE
+13-618-9438,40,Male,High,Medan,Home Appliances,4979530,12,None,FALSE
+32-457-2982,47,Female,High,Bandung,Animal Feed,6533250,11,Low,TRUE
+43-386-2489,27,Female,High,Jakarta,Food & Beverages,3925995,6,None,TRUE
+67-438-2378,29,Female,Middle,Medan,Jewelry & Accessories,3373110,3,High,FALSE
+65-431-1264,21,Male,Middle,Makassar,Books,3503620,11,None,TRUE
+73-367-8478,41,Female,High,Medan,Packages,818245,4,Low,TRUE
+84-162-8799,43,Male,Middle,Papua,Jewelry & Accessories,5968740,7,High,FALSE
+51-546-9992,33,Male,High,Medan,Hotels,2807050,2,Low,FALSE
+89-189-3295,23,Female,Middle,Bandung,Office Supplies,3819355,7,None,TRUE
+45-776-7217,37,Female,Middle,Medan,Baby Products,2183485,8,Low,TRUE
+71-354-5174,34,Female,High,Medan,Software & Apps,2344375,2,Medium,TRUE
+05-975-6985,27,Male,High,Jakarta,Hotels,2658560,3,Medium,TRUE
+42-859-2475,40,Male,Middle,Jakarta,Sports & Outdoors,6193180,10,Low,TRUE
+34-094-1923,40,Female,Middle,Medan,Sports & Outdoors,2688630,4,None,FALSE
+57-797-8139,43,Male,High,Jakarta,Toys & Games,5148170,10,Low,TRUE
+21-048-8669,37,Female,Middle,Papua,Food & Beverages,3829275,8,Low,FALSE
+30-038-8752,49,Male,High,Bandung,Office Supplies,5671140,10,None,FALSE
+06-237-7338,27,Female,Middle,Medan,Toys & Games,5501260,8,None,TRUE
+71-817-5422,19,Female,High,Jakarta,Jewelry & Accessories,3029630,10,None,TRUE
+68-512-0568,40,Female,High,Bandung,Books,7347465,7,Medium,TRUE
+18-633-9387,27,Male,Middle,Medan,Animal Feed,1657880,6,Low,TRUE
+08-977-4418,29,Female,Middle,Makassar,Electronics,5763520,9,None,FALSE
+97-738-8095,45,Male,High,Bandung,Health Supplements,7147980,8,High,TRUE
+15-421-1255,24,Female,High,Makassar,Books,7715125,11,None,TRUE
+92-142-4328,45,Female,Middle,Papua,Health Care,7638865,5,High,TRUE
+06-357-6548,39,Female,Middle,Makassar,Groceries,4580870,8,None,FALSE
+59-261-4453,40,Male,High,Makassar,Furniture,7669555,9,Medium,TRUE
+35-644-3184,21,Female,High,Medan,Mobile Accessories,2483875,7,None,TRUE
+30-528-9105,42,Female,Middle,Medan,Gardening & Outdoors,3074580,4,None,FALSE
+14-709-8547,44,Female,Middle,Jakarta,Furniture,1277045,12,None,FALSE
+80-508-9866,46,Female,Middle,Makassar,Hotels,4503680,3,None,TRUE
+27-100-0661,29,Male,High,Jakarta,Animal Feed,3205245,5,High,FALSE
+68-488-7343,19,Female,Middle,Bandung,Baby Products,6222165,8,None,TRUE
+63-304-1852,21,Male,High,Surabaya,Sports & Outdoors,2916635,9,Medium,TRUE
+53-843-5619,38,Female,High,Bandung,Gardening & Outdoors,1289755,10,Low,FALSE
+44-786-7696,41,Female,Middle,Bandung,Gardening & Outdoors,848470,4,None,TRUE
+45-631-4619,49,Female,High,Papua,Office Supplies,5752360,8,High,FALSE
+11-850-1953,32,Female,Middle,Bandung,Packages,4551420,3,Low,TRUE
+20-421-2544,24,Male,High,Bandung,Books,2880365,11,Low,FALSE
+37-100-8709,27,Male,High,Bandung,Office Supplies,1815515,7,High,TRUE
+78-361-5100,44,Female,Middle,Bandung,Office Supplies,809720,11,Low,TRUE
+67-676-5945,28,Female,High,Makassar,Baby Products,6923695,7,Medium,FALSE
+67-639-5838,23,Male,Middle,Surabaya,Packages,3361020,5,Low,FALSE
+51-415-1931,42,Female,High,Makassar,Electronics,1166685,7,None,TRUE
+96-764-3843,20,Male,Middle,Surabaya,Office Supplies,4787485,2,None,TRUE
+16-730-2056,49,Male,High,Medan,Travel & Leisure,2631435,5,Medium,TRUE
+22-157-2494,19,Male,High,Jakarta,Toys & Games,4480740,12,None,TRUE
+29-341-6463,38,Female,Middle,Medan,Travel & Leisure,1148395,10,None,TRUE
+64-906-4475,43,Male,High,Jakarta,Travel & Leisure,3123715,5,None,FALSE
+36-340-8494,38,Male,Middle,Bandung,Arts & Crafts,3791300,12,Medium,FALSE
+77-031-4898,21,Male,Middle,Bandung,Software & Apps,4967750,10,Low,TRUE
+86-097-9642,27,Male,Middle,Makassar,Jewelry & Accessories,1420265,3,None,TRUE
+64-090-3433,35,Male,Middle,Medan,Sports & Outdoors,3904915,8,High,FALSE
+96-140-1936,30,Male,Middle,Surabaya,Luxury Goods,7398925,4,High,FALSE
+38-830-6976,31,Male,High,Papua,Baby Products,1342765,10,Medium,TRUE
+82-864-1154,50,Female,High,Jakarta,health care,7353510,4,Medium,TRUE
+79-711-6779,34,Female,High,Medan,Gardening & Outdoors,6653220,7,High,FALSE
+22-860-9860,24,Female,High,Jakarta,Home Appliances,7290890,8,Medium,TRUE
+72-590-6161,32,Female,Middle,Bandung,Gardening & Outdoors,7684900,4,Low,TRUE
+76-213-5806,21,Female,High,Papua,Electronics,2009420,4,None,FALSE
+66-894-5431,41,Male,Middle,Medan,Mobile Accessories,7343435,9,Medium,FALSE
+20-939-3906,40,Female,High,Medan,Electronics,2028020,4,Medium,TRUE
+86-390-9555,48,Male,Middle,Surabaya,Groceries,6766370,12,Medium,TRUE
+91-602-0761,25,Female,Middle,Papua,Animal Feed,4092155,4,High,TRUE
+62-974-7965,30,Female,High,Makassar,Travel & Leisure,903185,2,Medium,FALSE
+21-232-1397,25,Male,Middle,Jakarta,Sports & Outdoors,2956780,10,None,FALSE
+31-364-4144,40,Female,High,Papua,Animal Feed,1639280,8,None,FALSE
+99-945-7193,24,Female,Middle,Makassar,Hotels,3941495,9,Medium,FALSE
+91-053-3261,49,Male,Middle,Jakarta,Sports & Outdoors,6750560,9,High,TRUE
+50-447-5171,50,Female,High,Makassar,Office Supplies,3650095,5,High,TRUE
+89-754-7244,45,Male,High,Surabaya,Mobile Accessories,2500770,3,High,TRUE
+56-072-7011,19,Male,High,Surabaya,Mobile Accessories,2598885,11,High,FALSE
+74-281-3421,50,Female,Middle,Papua,Food & Beverages,1498540,10,High,TRUE
+86-068-2133,32,Male,High,Surabaya,Gardening & Outdoors,3635990,3,Low,TRUE
+03-102-0288,21,Male,Middle,Papua,Furniture,2425440,7,Low,FALSE
+74-033-1145,27,Male,High,Surabaya,Jewelry & Accessories,7589730,11,High,TRUE
+24-272-6205,39,Female,High,Papua,Packages,2508675,9,High,TRUE
+90-170-1951,34,Male,Middle,Jakarta,Electronics,3169285,7,None,TRUE
+73-259-8940,34,Female,Middle,Bandung,Hotels,4882965,4,High,TRUE
+77-796-5786,42,Male,Middle,Bandung,Furniture,5120580,12,Low,TRUE
+23-949-1954,42,Male,Middle,Papua,Toys & Games,7080865,5,None,FALSE
+51-313-7293,31,Male,High,Jakarta,Jewelry & Accessories,3658775,6,None,FALSE
+62-797-9254,35,Female,High,Surabaya,Home Appliances,4483840,9,High,FALSE
+27-941-4995,27,Female,High,Jakarta,Packages,7498435,5,None,FALSE
+01-799-2615,45,Male,Middle,Jakarta,Furniture,999750,7,High,TRUE
+82-133-0444,43,Male,High,Makassar,Groceries,6766835,4,High,FALSE
+43-920-9499,35,Female,Middle,Bandung,Food & Beverages,5649440,2,None,FALSE
+17-551-9779,33,Female,Middle,Bandung,Beauty & Personal Care,3439140,12,Low,TRUE
+49-037-2300,31,Female,Middle,Makassar,Clothing,4312255,3,Low,TRUE
+95-876-9757,31,Female,High,Papua,Health Supplements,5338665,7,Medium,TRUE
+47-947-4888,26,Male,High,Makassar,Baby Products,5054240,11,Medium,TRUE
+83-003-2165,49,Male,High,Bandung,Gardening & Outdoors,6788535,8,High,TRUE
+27-619-9264,23,Male,High,Bandung,Packages,6073985,3,High,TRUE
+49-476-1729,42,Male,High,Jakarta,Travel & Leisure,5167855,3,High,FALSE
+64-803-7087,32,Male,Middle,Bandung,Groceries,3898870,9,High,TRUE
+01-925-4021,37,Female,Middle,Papua,Electronics,4527240,7,High,FALSE
+51-116-5937,25,Male,High,Surabaya,Travel & Leisure,3166495,11,None,FALSE
+72-454-2741,49,Male,Middle,Surabaya,Packages,4009540,4,Low,FALSE
+96-484-1000,26,Male,Middle,Papua,Gardening & Outdoors,3999310,2,Low,TRUE
+07-834-3350,29,Female,High,Bandung,Gardening & Outdoors,2818985,12,Medium,FALSE
+11-802-5604,26,Male,High,Jakarta,Groceries,1258290,8,Low,FALSE
+41-750-4105,23,Female,High,Makassar,Books,5935570,8,Medium,FALSE
+31-491-8457,47,Female,High,Makassar,Beauty & Personal Care,6243710,7,None,FALSE
+86-257-9581,30,Male,High,Makassar,Gardening & Outdoors,7715280,2,High,TRUE
+22-981-6595,26,Female,High,Jakarta,Furniture,3527490,5,High,TRUE
+54-002-5845,35,Female,High,Papua,Electronics,4085335,2,High,TRUE
+31-927-7787,40,Male,High,Medan,Baby Products,6542395,3,High,TRUE
+46-098-9737,35,Male,Middle,Makassar,Gardening & Outdoors,6383365,2,High,TRUE
+27-017-7173,21,Male,Middle,Makassar,Software & Apps,3761075,3,None,FALSE
+53-102-9949,41,Male,Middle,Bandung,Sports & Outdoors,4633415,6,None,TRUE
+02-676-9312,44,Female,High,Bandung,Mobile Accessories,2963755,7,Low,FALSE
+28-969-7540,44,Female,High,Surabaya,Electronics,2118385,3,Low,FALSE
+30-083-9565,37,Male,Middle,Medan,Sports & Outdoors,5023705,11,None,FALSE
+30-975-0306,40,Female,High,Makassar,Animal Feed,1637420,6,Low,TRUE
+14-364-4904,43,Male,High,Surabaya,Electronics,4581800,10,High,TRUE
+08-652-2085,48,Male,Middle,Jakarta,Animal Feed,3518965,9,Low,TRUE
+67-037-2087,32,Female,High,Papua,Hotels,7529435,10,Low,FALSE
+09-737-8354,37,Female,Middle,Bandung,Animal Feed,2688165,4,Medium,TRUE
+12-417-5609,29,Female,Middle,Bandung,Baby Products,7175880,2,High,TRUE
+25-096-6830,36,Male,High,Surabaya,Mobile Accessories,3148515,10,None,TRUE
+91-558-5922,50,Female,High,Medan,Toys & Games,6868205,9,None,TRUE
+25-560-4506,31,Female,High,Bandung,Health Supplements,3949865,2,None,FALSE
+33-609-0598,29,Female,High,Makassar,Luxury Goods,5221795,4,Medium,FALSE
+45-337-1798,26,Male,Middle,Jakarta,Baby Products,5226135,8,Low,FALSE
+34-265-8558,22,Female,High,Medan,Food & Beverages,6653220,2,Medium,FALSE
+67-323-7406,35,Female,High,Papua,Electronics,3064350,7,High,FALSE
+40-149-8247,23,Male,Middle,Makassar,Home Appliances,5222880,2,High,TRUE
+37-361-8691,40,Female,High,Bandung,Packages,7592055,11,Low,FALSE
+17-763-9416,32,Female,High,Makassar,Software & Apps,7061025,8,High,FALSE
+56-453-8263,29,Male,Middle,Bandung,Mobile Accessories,4132455,3,Medium,TRUE
+19-560-0717,50,Male,Middle,Makassar,Travel & Leisure,7143640,5,None,TRUE
+40-199-1803,42,Male,High,Makassar,Health Supplements,5601700,2,Medium,FALSE
+09-332-0236,47,Female,Middle,Jakarta,Baby Products,803830,4,Medium,FALSE
+83-982-5300,27,Male,Middle,Bandung,Office Supplies,4807480,5,None,FALSE
+46-662-1571,40,Female,Middle,Bandung,Packages,4661315,8,Low,TRUE
+20-699-9217,28,Female,High,Surabaya,Packages,5531485,12,High,FALSE
+26-150-0209,28,Male,Middle,Surabaya,Clothing,1276735,6,Medium,FALSE
+94-985-5336,29,Female,High,Papua,Clothing,5775300,3,High,TRUE
+97-715-3606,29,Female,Middle,Medan,Animal Feed,1213960,9,Low,FALSE
+02-100-4320,32,Female,High,Papua,Baby Products,1111660,12,High,TRUE
+16-070-0138,39,Female,High,Papua,Luxury Goods,3737050,12,None,FALSE
+82-474-5074,22,Male,Middle,Papua,Travel & Leisure,1501330,9,None,FALSE
+36-444-5336,48,Male,Middle,Papua,Food & Beverages,4281875,11,High,TRUE
+54-680-5344,29,Male,Middle,Papua,Office Supplies,4935975,10,None,FALSE
+16-364-8096,41,Female,High,Medan,Animal Feed,1813965,6,None,FALSE
+62-644-8183,50,Female,Middle,Papua,Toys & Games,7601355,7,Medium,TRUE
+59-971-0799,48,Male,Middle,Medan,Health Supplements,7384510,7,High,TRUE
+64-031-2046,29,Female,High,Papua,Beauty & Personal Care,6080185,5,High,TRUE
+87-079-0237,36,Male,High,Jakarta,Hotels,3212220,9,Low,TRUE
+78-091-8662,43,Male,High,Surabaya,Gardening & Outdoors,2195265,3,None,TRUE
+62-720-2922,30,Male,High,Bandung,Home Appliances,3789285,5,High,FALSE
+47-528-3961,24,Male,High,Medan,Gardening & Outdoors,3900265,9,Low,TRUE
+21-808-2293,30,Male,Middle,Makassar,Toys & Games,6692590,12,Medium,TRUE
+22-022-9256,37,Female,Middle,Makassar,Jewelry & Accessories,4697895,2,None,FALSE
+96-772-7220,40,Male,High,Medan,Travel & Leisure,5289220,9,Low,TRUE
+25-866-7286,30,Female,Middle,Makassar,Electronics,3276545,10,Medium,TRUE
+72-694-4159,39,Female,Middle,Jakarta,Electronics,5877755,9,Low,TRUE
+10-079-8237,46,Female,High,Bandung,Mobile Accessories,4797715,8,None,FALSE
+47-460-8015,48,Male,Middle,Jakarta,Books,5571475,6,Low,FALSE
+06-061-0023,20,Female,High,Makassar,Hotels,7434110,8,High,FALSE
+80-487-2550,34,Male,High,Surabaya,Electronics,3233300,2,None,TRUE
+23-617-2637,50,Female,Middle,Jakarta,Software & Apps,2793255,2,None,FALSE
+60-005-5187,25,Male,Middle,Jakarta,Electronics,3067450,3,Medium,TRUE
+24-371-5870,49,Male,Middle,Medan,Home Appliances,5615650,7,Low,TRUE
+02-055-8248,25,Female,High,Surabaya,Health Supplements,2472715,11,Low,TRUE
+48-271-1908,40,Female,High,Papua,Baby Products,4782990,11,Medium,FALSE
+54-238-5459,40,Female,High,Jakarta,Jewelry & Accessories,2317560,9,None,FALSE
+85-922-0190,19,Female,High,Jakarta,Toys & Games,3197960,5,Low,TRUE
+48-271-1908,40,Female,High,Papua,Baby Products,4782990,11,Medium,FALSE
+46-978-3874,22,Female,High,Bandung,Groceries,1415770,5,None,TRUE
+53-595-7635,25,Female,High,Surabaya,Luxury Goods,7059320,7,Low,FALSE
+08-185-6608,32,Female,High,Surabaya,Baby Products,7256480,8,Low,FALSE
+20-562-2569,44,Female,High,Medan,Mobile Accessories,7186885,5,High,TRUE
+41-366-4205,50,Female,High,Bandung,Gardening & Outdoors,1081590,9,Low,TRUE
+77-241-7621,26,Male,High,Jakarta,Food & Beverages,7027235,10,Low,TRUE
+53-091-2176,21,Female,High,Papua,Baby Products,1645325,12,Low,TRUE
+48-203-9118,21,Female,Middle,Medan,Health Care,5866285,6,Medium,FALSE
